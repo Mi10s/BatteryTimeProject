@@ -1,0 +1,9 @@
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\bin\Debug\BatteryProject.exe.config
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\bin\Debug\BatteryProject.exe
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\bin\Debug\BatteryProject.pdb
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\obj\Debug\BatteryProject.AboutMe.resources
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\obj\Debug\BatteryProject.BatteryTimeCounter.resources
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\obj\Debug\BatteryProject.Properties.Resources.resources
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\obj\Debug\BatteryProject.csproj.GenerateResource.Cache
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\obj\Debug\BatteryProject.exe
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\obj\Debug\BatteryProject.pdb

@@ -1,0 +1,3 @@
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\bin\Debug\BatteryProject.exe.config
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\obj\Debug\BatteryProject.exe
+d:\users\milos\documents\visual studio 2012\Projects\BatteryProject\BatteryProject\obj\Debug\BatteryProject.pdb
